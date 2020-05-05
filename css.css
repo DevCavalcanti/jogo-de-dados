@@ -1,0 +1,26 @@
+@charset "utf-8";
+
+div{
+
+    float: none;
+    position: fixed;
+    padding: 50px 0px 0px 0px;
+
+}
+
+form{
+margin-left: 500px;
+box-shadow: 5px black solid;
+
+}
+
+input{
+    margin: 0px 0px 0px 80px;
+    padding: 5px;
+}
+
+img{
+    margin: 0px 0px 0px 50px ;
+    padding: 0px ;
+
+}
